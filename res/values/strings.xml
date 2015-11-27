@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ria.ru</string>
+    <string name="item_name">Новость</string>
+    <string name="title_activity_news_list">Список новостей по рубрике</string>
+    <string name="title_activity_news">Новость</string>
+</resources>
